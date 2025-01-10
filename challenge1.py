@@ -1,1 +1,1 @@
-print('Ola, Mundo dos Cornos Mansos')
+print('Ola, Mundo')
